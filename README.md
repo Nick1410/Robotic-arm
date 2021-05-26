@@ -16,8 +16,11 @@ implemented will be Cloud based so can be upgraded with time. The basic features
 aspects to be kept in mind while deploying it also include
 Flexibility, precision and wide area of application.
 
-![working](https://raw.githubusercontent.com/prompt-07/Robotic-arn/main/public/systemarch.jpeg)
+<img src="https://raw.githubusercontent.com/prompt-07/Robotic-arn/main/public/systemarch.jpeg"
+     alt="Markdown Monster icon"
+     style="width: 500px ;float: left; margin-right: 10px;" />
 
+<br>
 ---
 
 ## Hardware Requirements:
